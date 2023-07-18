@@ -1,5 +1,5 @@
-Easy Guide to Credit Risk Analysis Using Logistic Regression
-What's This Project About?
+# Easy Guide to Credit Risk Analysis Using Logistic Regression
+## What's This Project About?
 We're trying to make a program that can tell us if a loan is risky or not. We call this "credit risk analysis." We're using a type of machine learning called logistic regression to help us do this.
 
 How's The Project Broken Down?
